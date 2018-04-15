@@ -14,5 +14,6 @@ Code for a simple clock built with attiny85, an RTC and one (or more) RGB LED.
  * http://www.instructables.com/id/ATtiny85-Ring-Watch/
  * http://www.technoblogy.com/show?1Y7J
  * http://highlowtech.org/?p=1695 (tips on ATTiny programming)
-
+ * https://digistump.com/wiki/digispark/tutorials/connecting
+ * https://www.filipeflop.com/produto/placa-de-desenvolvimento-attiny85/
  
